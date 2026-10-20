@@ -1,0 +1,397 @@
+subject_id,type,category,detail
+10001576,T1,temporal,hadm 20003204
+10001192,T1,temporal,hadm 20002435
+10000084,T1,temporal,hadm 20000167
+10000420,T1,temporal,hadm 20000839
+10001742,T1,temporal,hadm 20003537
+10001091,T1,temporal,hadm 20002223
+10001937,T1,temporal,hadm 20003911
+10001215,T1,temporal,hadm 20002488
+10000825,T1,temporal,hadm 20001688
+10001359,T1,temporal,hadm 20002787
+10001131,T1,temporal,hadm 20002303
+10000146,T1,temporal,hadm 20000287
+10000644,T1,temporal,hadm 20001291
+10000476,T1,temporal,hadm 20000949
+10000793,T1,temporal,hadm 20001607
+10000136,T1,temporal,hadm 20000268
+10001991,T1,temporal,hadm 20004030
+10001106,T1,temporal,hadm 20002249
+10001363,T1,temporal,hadm 20002795
+10000911,T1,temporal,hadm 20001855
+10001772,T1,temporal,hadm 20003588
+10001255,T1,temporal,hadm 20002570
+10001599,T1,temporal,hadm 20003254
+10000404,T1,temporal,hadm 20000812
+10000764,T1,temporal,hadm 20001552
+10001997,T1,temporal,hadm 20004039
+10000221,T1,temporal,hadm 20000439
+10000525,T1,temporal,hadm 20001050
+10001897,T1,temporal,hadm 20003832
+10000506,T1,temporal,hadm 20001010
+10000751,T1,temporal,hadm 20001528
+10001188,T1,temporal,hadm 20002426
+10000540,T1,temporal,hadm 20001081
+10000577,T1,temporal,hadm 20001156
+10001513,T1,temporal,hadm 20003075
+10001432,T1,temporal,hadm 20002921
+10001393,T1,temporal,hadm 20002847
+10000319,T1,temporal,hadm 20000640
+10001082,T1,temporal,hadm 20002201
+10000569,T1,temporal,hadm 20001140
+10001061,T1,temporal,hadm 20002162
+10001942,T1,temporal,hadm 20003922
+10001939,T1,temporal,hadm 20003916
+10000388,T1,temporal,hadm 20000781
+10000962,T2,temporal,dod moved before last admission
+10001150,T2,temporal,dod moved before last admission
+10000740,T2,temporal,dod moved before last admission
+10000065,T2,temporal,dod moved before last admission
+10000944,T2,temporal,dod moved before last admission
+10001321,T2,temporal,dod moved before last admission
+10000677,T2,temporal,dod moved before last admission
+10000634,T2,temporal,dod moved before last admission
+10001089,T2,temporal,dod moved before last admission
+10001858,T2,temporal,dod moved before last admission
+10000512,T2,temporal,dod moved before last admission
+10000320,T2,temporal,dod moved before last admission
+10000669,T2,temporal,dod moved before last admission
+10001376,T2,temporal,dod moved before last admission
+10000459,T2,temporal,dod moved before last admission
+10000340,T2,temporal,dod moved before last admission
+10001066,T2,temporal,dod moved before last admission
+10000754,T2,temporal,dod moved before last admission
+10001650,T2,temporal,dod moved before last admission
+10001620,T2,temporal,dod moved before last admission
+10001585,T2,temporal,dod moved before last admission
+10000379,T2,temporal,dod moved before last admission
+10001391,T2,temporal,dod moved before last admission
+10001294,T2,temporal,dod moved before last admission
+10000431,T2,temporal,dod moved before last admission
+10000502,T2,temporal,dod moved before last admission
+10001936,T2,temporal,dod moved before last admission
+10000479,T2,temporal,dod moved before last admission
+10001711,T2,temporal,dod moved before last admission
+10000659,T2,temporal,dod moved before last admission
+10000166,T2,temporal,dod moved before last admission
+10001529,T2,temporal,dod moved before last admission
+10000341,T2,temporal,dod moved before last admission
+10000092,T2,temporal,dod moved before last admission
+10001387,T2,temporal,dod moved before last admission
+10001241,T2,temporal,dod moved before last admission
+10000717,T2,temporal,dod moved before last admission
+10000819,T2,temporal,dod moved before last admission
+10000789,T2,temporal,dod moved before last admission
+10001938,T2,temporal,dod moved before last admission
+10001930,T2,temporal,dod moved before last admission
+10001327,T2,temporal,dod moved before last admission
+10001806,T2,temporal,dod moved before last admission
+10001126,T2,temporal,dod moved before last admission
+10001448,D1,demographic,O80
+10000156,D1,demographic,C61
+10001622,D1,demographic,C61
+10000680,D1,demographic,C61
+10000957,D1,demographic,O80
+10001785,D1,demographic,O80
+10001476,D1,demographic,O80
+10000833,D1,demographic,O80
+10000762,D1,demographic,O80
+10000802,D1,demographic,C61
+10001517,D1,demographic,C61
+10000322,D1,demographic,C61
+10000095,D1,demographic,C61
+10000272,D1,demographic,C61
+10001378,D1,demographic,C61
+10001004,D1,demographic,C61
+10001225,D1,demographic,C61
+10001665,D1,demographic,C61
+10000202,D1,demographic,C61
+10001161,D1,demographic,C61
+10000844,D1,demographic,O80
+10001025,D1,demographic,C61
+10000115,D1,demographic,O80
+10000948,D1,demographic,O80
+10001798,D1,demographic,C61
+10001664,D1,demographic,C61
+10000260,D1,demographic,C61
+10001183,D1,demographic,C61
+10000538,D1,demographic,C61
+10001151,D1,demographic,C61
+10001834,D1,demographic,C61
+10001725,D1,demographic,O80
+10000477,D1,demographic,O80
+10000430,D1,demographic,O80
+10001970,D1,demographic,C61
+10000280,D1,demographic,C61
+10000089,D1,demographic,O80
+10000614,D1,demographic,C61
+10001856,D1,demographic,C61
+10000727,D1,demographic,C61
+10001441,D1,demographic,O80
+10001591,D1,demographic,O80
+10001493,D1,demographic,C61
+10001134,D1,demographic,C61
+10000501,D2,demographic,O80 at age 72
+10000025,D2,demographic,O80 at age 90
+10000020,D2,demographic,O80 at age 83
+10000901,D2,demographic,O80 at age 66
+10001422,D2,demographic,C61 at age 19
+10000772,D2,demographic,C61 at age 25
+10000387,D2,demographic,C61 at age 24
+10001099,D2,demographic,O80 at age 90
+10000672,D2,demographic,C61 at age 31
+10001886,D2,demographic,O80 at age 81
+10000778,D2,demographic,C61 at age 18
+10001275,D2,demographic,O80 at age 71
+10000757,D2,demographic,O80 at age 68
+10001366,D2,demographic,C61 at age 21
+10000646,D2,demographic,C61 at age 30
+10000970,D2,demographic,O80 at age 70
+10001916,D2,demographic,O80 at age 70
+10001386,D2,demographic,C61 at age 31
+10001222,D2,demographic,O80 at age 62
+10000325,D2,demographic,O80 at age 85
+10000829,D2,demographic,O80 at age 86
+10001561,D2,demographic,O80 at age 71
+10000753,D2,demographic,C61 at age 29
+10001989,D2,demographic,O80 at age 82
+10001655,D2,demographic,C61 at age 19
+10001454,D2,demographic,C61 at age 20
+10001423,D2,demographic,O80 at age 89
+10000554,D2,demographic,C61 at age 29
+10000960,D2,demographic,O80 at age 69
+10001909,D2,demographic,O80 at age 64
+10000389,D2,demographic,C61 at age 23
+10001623,D2,demographic,O80 at age 73
+10000187,D2,demographic,O80 at age 59
+10001428,D2,demographic,O80 at age 65
+10000111,D2,demographic,C61 at age 28
+10001169,D2,demographic,O80 at age 86
+10001872,D2,demographic,O80 at age 71
+10000227,D2,demographic,O80 at age 57
+10001446,D2,demographic,C61 at age 26
+10000339,D2,demographic,C61 at age 33
+10000038,D2,demographic,C61 at age 24
+10000287,D2,demographic,O80 at age 87
+10001767,D2,demographic,C61 at age 19
+10000352,D2,demographic,C61 at age 23
+10001762,P1,plausibility,hba1c
+10001358,P1,plausibility,spo2
+10000271,P1,plausibility,sodium
+10000791,P1,plausibility,wbc
+10000988,P1,plausibility,potassium
+10001572,P1,plausibility,hba1c
+10001713,P1,plausibility,sodium
+10001303,P1,plausibility,creatinine
+10000632,P1,plausibility,spo2
+10001779,P1,plausibility,spo2
+10001796,P1,plausibility,temperature
+10001569,P1,plausibility,creatinine
+10001818,P1,plausibility,temperature
+10001058,P1,plausibility,creatinine
+10001298,P1,plausibility,temperature
+10001699,P1,plausibility,potassium
+10001679,P1,plausibility,heart_rate
+10000663,P1,plausibility,heart_rate
+10001920,P1,plausibility,hba1c
+10001813,P1,plausibility,temperature
+10000446,P1,plausibility,spo2
+10001128,P1,plausibility,spo2
+10001267,P1,plausibility,hemoglobin
+10001610,P1,plausibility,wbc
+10001708,P1,plausibility,spo2
+10001738,P1,plausibility,spo2
+10001662,P1,plausibility,spo2
+10000150,P1,plausibility,sodium
+10001776,P1,plausibility,tsh
+10000748,P1,plausibility,spo2
+10001081,P1,plausibility,hba1c
+10001373,P1,plausibility,spo2
+10001371,P1,plausibility,heart_rate
+10000989,P1,plausibility,sodium
+10000330,P1,plausibility,heart_rate
+10001899,P1,plausibility,sodium
+10000697,P1,plausibility,sodium
+10000063,P1,plausibility,sbp
+10000158,P1,plausibility,heart_rate
+10001945,P1,plausibility,heart_rate
+10000583,P1,plausibility,heart_rate
+10001929,P1,plausibility,potassium
+10000604,P1,plausibility,hemoglobin
+10000452,P1,plausibility,tsh
+10000473,U1,plausibility,glucose mmol/L stored as mg/dL
+10000559,U1,plausibility,glucose mmol/L stored as mg/dL
+10000256,U1,plausibility,glucose mmol/L stored as mg/dL
+10001512,U1,plausibility,glucose mmol/L stored as mg/dL
+10000334,U1,plausibility,glucose mmol/L stored as mg/dL
+10000130,U1,plausibility,glucose mmol/L stored as mg/dL
+10001436,U1,plausibility,glucose mmol/L stored as mg/dL
+10001120,U1,plausibility,glucose mmol/L stored as mg/dL
+10001429,U1,plausibility,glucose mmol/L stored as mg/dL
+10000655,U1,plausibility,glucose mmol/L stored as mg/dL
+10000184,U1,plausibility,glucose mmol/L stored as mg/dL
+10000301,U1,plausibility,glucose mmol/L stored as mg/dL
+10001125,U1,plausibility,glucose mmol/L stored as mg/dL
+10001345,U1,plausibility,glucose mmol/L stored as mg/dL
+10001836,U1,plausibility,glucose mmol/L stored as mg/dL
+10001374,U1,plausibility,glucose mmol/L stored as mg/dL
+10001062,U1,plausibility,glucose mmol/L stored as mg/dL
+10001646,U1,plausibility,glucose mmol/L stored as mg/dL
+10000959,U1,plausibility,glucose mmol/L stored as mg/dL
+10000781,U1,plausibility,glucose mmol/L stored as mg/dL
+10001211,U1,plausibility,glucose mmol/L stored as mg/dL
+10000832,U1,plausibility,glucose mmol/L stored as mg/dL
+10001766,U1,plausibility,glucose mmol/L stored as mg/dL
+10001918,U1,plausibility,glucose mmol/L stored as mg/dL
+10001560,U1,plausibility,glucose mmol/L stored as mg/dL
+10000247,U1,plausibility,glucose mmol/L stored as mg/dL
+10000076,U1,plausibility,glucose mmol/L stored as mg/dL
+10000225,U1,plausibility,glucose mmol/L stored as mg/dL
+10000593,U1,plausibility,glucose mmol/L stored as mg/dL
+10001568,U1,plausibility,glucose mmol/L stored as mg/dL
+10001450,U1,plausibility,glucose mmol/L stored as mg/dL
+10000326,U1,plausibility,glucose mmol/L stored as mg/dL
+10001340,U1,plausibility,glucose mmol/L stored as mg/dL
+10000707,U1,plausibility,glucose mmol/L stored as mg/dL
+10000037,U1,plausibility,glucose mmol/L stored as mg/dL
+10001402,U1,plausibility,glucose mmol/L stored as mg/dL
+10000809,U1,plausibility,glucose mmol/L stored as mg/dL
+10000639,U1,plausibility,glucose mmol/L stored as mg/dL
+10000315,U1,plausibility,glucose mmol/L stored as mg/dL
+10001753,U1,plausibility,glucose mmol/L stored as mg/dL
+10001346,U1,plausibility,glucose mmol/L stored as mg/dL
+10000974,U1,plausibility,glucose mmol/L stored as mg/dL
+10000774,U1,plausibility,glucose mmol/L stored as mg/dL
+10000845,U1,plausibility,glucose mmol/L stored as mg/dL
+10000908,C1,integrity,sodium
+10000173,C1,integrity,sodium
+10000651,C1,integrity,hemoglobin
+10001845,C1,integrity,wbc
+10000795,C1,integrity,hba1c
+10000945,C1,integrity,sodium
+10001438,C1,integrity,tsh
+10000562,C1,integrity,sodium
+10001466,C1,integrity,wbc
+10000416,C1,integrity,glucose
+10000011,C1,integrity,hemoglobin
+10001704,C1,integrity,tsh
+10000140,C1,integrity,tsh
+10000231,C1,integrity,sodium
+10000427,C1,integrity,glucose
+10001719,C1,integrity,tsh
+10001413,C1,integrity,potassium
+10000267,C1,integrity,tsh
+10001205,C1,integrity,tsh
+10001154,C1,integrity,hemoglobin
+10000867,C1,integrity,wbc
+10000730,C1,integrity,hemoglobin
+10000307,C1,integrity,hemoglobin
+10001696,C1,integrity,sodium
+10000528,C1,integrity,glucose
+10001383,C1,integrity,sodium
+10000470,C1,integrity,glucose
+10001088,C1,integrity,tsh
+10001724,C1,integrity,glucose
+10001925,C1,integrity,wbc
+10000648,C1,integrity,wbc
+10000920,C1,integrity,wbc
+10001904,C1,integrity,glucose
+10001464,C1,integrity,creatinine
+10000391,C1,integrity,wbc
+10000750,C1,integrity,hemoglobin
+10001671,C1,integrity,glucose
+10000040,C1,integrity,sodium
+10000946,C1,integrity,sodium
+10001029,C1,integrity,hemoglobin
+10001498,C1,integrity,tsh
+10000116,C1,integrity,potassium
+10000165,C1,integrity,creatinine
+10001788,C1,integrity,hemoglobin
+10001470,M1,pharmacological,piperacillin-tazobactam
+10000731,M1,pharmacological,piperacillin-tazobactam
+10000595,M1,pharmacological,piperacillin-tazobactam
+10001933,M1,pharmacological,levothyroxine
+10000760,M1,pharmacological,metformin
+10000567,M1,pharmacological,metformin
+10001759,M1,pharmacological,leuprolide
+10000014,M1,pharmacological,leuprolide
+10001520,M1,pharmacological,metformin
+10000472,M1,pharmacological,insulin glargine
+10000412,M1,pharmacological,leuprolide
+10000949,M1,pharmacological,lisinopril
+10001349,M1,pharmacological,lisinopril
+10001900,M1,pharmacological,amlodipine
+10001841,M1,pharmacological,piperacillin-tazobactam
+10001270,M1,pharmacological,metformin
+10001853,M1,pharmacological,leuprolide
+10000327,M1,pharmacological,leuprolide
+10000296,M1,pharmacological,levothyroxine
+10000913,M1,pharmacological,metformin
+10001226,M1,pharmacological,metformin
+10000162,M1,pharmacological,lisinopril
+10001244,M1,pharmacological,insulin glargine
+10001469,M1,pharmacological,insulin glargine
+10000333,M1,pharmacological,metformin
+10000558,M1,pharmacological,amlodipine
+10001996,M1,pharmacological,metformin
+10001621,M1,pharmacological,piperacillin-tazobactam
+10000846,M1,pharmacological,metformin
+10001214,M1,pharmacological,metformin
+10001563,M1,pharmacological,leuprolide
+10001252,M1,pharmacological,piperacillin-tazobactam
+10001468,M1,pharmacological,leuprolide
+10000183,M1,pharmacological,piperacillin-tazobactam
+10000592,M1,pharmacological,lisinopril
+10001963,M1,pharmacological,amlodipine
+10000101,M1,pharmacological,metformin
+10000866,M1,pharmacological,ferrous sulfate
+10000168,M1,pharmacological,insulin glargine
+10001793,M1,pharmacological,metformin
+10000215,M1,pharmacological,levothyroxine
+10000082,M1,pharmacological,ferrous sulfate
+10001757,M1,pharmacological,insulin glargine
+10001240,M1,pharmacological,metformin
+10001577,K1,causal,I10
+10001339,K1,causal,I10
+10001034,K1,causal,N18.3
+10001398,K1,causal,E11.9
+10001637,K1,causal,I10
+10000305,K1,causal,N18.3
+10001258,K1,causal,N18.3
+10001977,K1,causal,I10
+10000780,K1,causal,D64.9
+10001435,K1,causal,I10
+10001203,K1,causal,N18.3
+10000091,K1,causal,I10
+10001016,K1,causal,I10
+10000120,K1,causal,N18.3
+10001045,K1,causal,E11.9
+10000841,K1,causal,D64.9
+10000507,K1,causal,A41.9
+10000157,K1,causal,A41.9
+10001052,K1,causal,I10
+10001326,K1,causal,D64.9
+10001669,K1,causal,A41.9
+10001883,K1,causal,E11.9
+10000992,K1,causal,I10
+10000739,K1,causal,I10
+10001532,K1,causal,I10
+10000983,K1,causal,I10
+10001794,K1,causal,A41.9
+10000466,K1,causal,I10
+10001445,K1,causal,D64.9
+10000643,K1,causal,E11.9
+10000311,K1,causal,D64.9
+10001666,K1,causal,E11.9
+10001228,K1,causal,D64.9
+10001613,K1,causal,I10
+10001007,K1,causal,I10
+10000522,K1,causal,D64.9
+10000055,K1,causal,D64.9
+10001976,K1,causal,E11.9
+10000853,K1,causal,I10
+10000324,K1,causal,N18.3
+10000383,K1,causal,I10
+10000814,K1,causal,N18.3
+10000747,K1,causal,D64.9
+10000951,K1,causal,I10

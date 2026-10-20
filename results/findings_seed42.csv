@@ -1,0 +1,432 @@
+subject_id,rule,category,severity,message,hadm_id,injected_type
+10000084,T1,temporal,high,Admission 20000167: discharge 2022-10-16 10:00:00 is before admission 2022-10-17 16:00:00.,20000167.0,T1
+10000136,T1,temporal,high,Admission 20000268: discharge 2019-12-17 02:00:00 is before admission 2019-12-19 13:00:00.,20000268.0,T1
+10000146,T1,temporal,high,Admission 20000287: discharge 2020-12-30 01:00:00 is before admission 2021-01-01 03:00:00.,20000287.0,T1
+10000221,T1,temporal,high,Admission 20000439: discharge 2020-03-11 20:00:00 is before admission 2020-03-14 00:00:00.,20000439.0,T1
+10000319,T1,temporal,high,Admission 20000640: discharge 2022-11-11 16:00:00 is before admission 2022-11-11 22:00:00.,20000640.0,T1
+10000388,T1,temporal,high,Admission 20000781: discharge 2022-07-11 08:00:00 is before admission 2022-07-11 21:00:00.,20000781.0,T1
+10000404,T1,temporal,high,Admission 20000812: discharge 2021-11-19 21:00:00 is before admission 2021-11-21 22:00:00.,20000812.0,T1
+10000420,T1,temporal,high,Admission 20000839: discharge 2019-01-26 01:00:00 is before admission 2019-01-28 16:00:00.,20000839.0,T1
+10000476,T1,temporal,high,Admission 20000949: discharge 2021-06-18 06:00:00 is before admission 2021-06-19 17:00:00.,20000949.0,T1
+10000506,T1,temporal,high,Admission 20001010: discharge 2019-07-28 22:00:00 is before admission 2019-07-30 23:00:00.,20001010.0,T1
+10000525,T1,temporal,high,Admission 20001050: discharge 2020-04-13 15:00:00 is before admission 2020-04-14 01:00:00.,20001050.0,T1
+10000540,T1,temporal,high,Admission 20001081: discharge 2020-11-11 16:00:00 is before admission 2020-11-14 06:00:00.,20001081.0,T1
+10000569,T1,temporal,high,Admission 20001140: discharge 2022-02-03 07:00:00 is before admission 2022-02-05 22:00:00.,20001140.0,T1
+10000577,T1,temporal,high,Admission 20001156: discharge 2022-12-01 13:00:00 is before admission 2022-12-04 02:00:00.,20001156.0,T1
+10000644,T1,temporal,high,Admission 20001291: discharge 2019-07-11 06:00:00 is before admission 2019-07-13 02:00:00.,20001291.0,T1
+10000751,T1,temporal,high,Admission 20001528: discharge 2020-01-05 18:00:00 is before admission 2020-01-08 09:00:00.,20001528.0,T1
+10000764,T1,temporal,high,Admission 20001552: discharge 2021-06-03 14:00:00 is before admission 2021-06-04 07:00:00.,20001552.0,T1
+10000793,T1,temporal,high,Admission 20001607: discharge 2019-03-04 12:00:00 is before admission 2019-03-05 19:00:00.,20001607.0,T1
+10000825,T1,temporal,high,Admission 20001688: discharge 2020-09-24 03:00:00 is before admission 2020-09-25 06:00:00.,20001688.0,T1
+10000911,T1,temporal,high,Admission 20001855: discharge 2020-10-06 05:00:00 is before admission 2020-10-06 20:00:00.,20001855.0,T1
+10001061,T1,temporal,high,Admission 20002162: discharge 2023-04-19 11:00:00 is before admission 2023-04-20 14:00:00.,20002162.0,T1
+10001082,T1,temporal,high,Admission 20002201: discharge 2021-02-10 03:00:00 is before admission 2021-02-11 17:00:00.,20002201.0,T1
+10001091,T1,temporal,high,Admission 20002223: discharge 2020-05-31 18:00:00 is before admission 2020-06-03 13:00:00.,20002223.0,T1
+10001106,T1,temporal,high,Admission 20002249: discharge 2019-09-04 08:00:00 is before admission 2019-09-06 16:00:00.,20002249.0,T1
+10001131,T1,temporal,high,Admission 20002303: discharge 2019-03-25 04:00:00 is before admission 2019-03-26 17:00:00.,20002303.0,T1
+10001188,T1,temporal,high,Admission 20002426: discharge 2023-01-29 07:00:00 is before admission 2023-01-29 20:00:00.,20002426.0,T1
+10001192,T1,temporal,high,Admission 20002435: discharge 2022-09-13 03:00:00 is before admission 2022-09-15 23:00:00.,20002435.0,T1
+10001215,T1,temporal,high,Admission 20002488: discharge 2021-08-24 07:00:00 is before admission 2021-08-25 06:00:00.,20002488.0,T1
+10001255,T1,temporal,high,Admission 20002570: discharge 2019-04-14 05:00:00 is before admission 2019-04-15 01:00:00.,20002570.0,T1
+10001359,T1,temporal,high,Admission 20002787: discharge 2022-10-09 04:00:00 is before admission 2022-10-11 11:00:00.,20002787.0,T1
+10001363,T1,temporal,high,Admission 20002795: discharge 2021-06-11 19:00:00 is before admission 2021-06-12 08:00:00.,20002795.0,T1
+10001393,T1,temporal,high,Admission 20002847: discharge 2022-08-10 03:00:00 is before admission 2022-08-11 06:00:00.,20002847.0,T1
+10001432,T1,temporal,high,Admission 20002921: discharge 2019-07-04 03:00:00 is before admission 2019-07-06 04:00:00.,20002921.0,T1
+10001513,T1,temporal,high,Admission 20003075: discharge 2020-08-09 06:00:00 is before admission 2020-08-11 22:00:00.,20003075.0,T1
+10001576,T1,temporal,high,Admission 20003204: discharge 2022-01-20 20:00:00 is before admission 2022-01-23 05:00:00.,20003204.0,T1
+10001599,T1,temporal,high,Admission 20003254: discharge 2020-02-18 21:00:00 is before admission 2020-02-20 23:00:00.,20003254.0,T1
+10001742,T1,temporal,high,Admission 20003537: discharge 2019-09-22 18:00:00 is before admission 2019-09-24 21:00:00.,20003537.0,T1
+10001772,T1,temporal,high,Admission 20003588: discharge 2020-07-12 10:00:00 is before admission 2020-07-14 07:00:00.,20003588.0,T1
+10001897,T1,temporal,high,Admission 20003832: discharge 2021-03-24 15:00:00 is before admission 2021-03-24 18:00:00.,20003832.0,T1
+10001937,T1,temporal,high,Admission 20003911: discharge 2022-12-05 11:00:00 is before admission 2022-12-07 22:00:00.,20003911.0,T1
+10001939,T1,temporal,high,Admission 20003916: discharge 2020-08-10 14:00:00 is before admission 2020-08-12 18:00:00.,20003916.0,T1
+10001942,T1,temporal,high,Admission 20003922: discharge 2022-01-13 09:00:00 is before admission 2022-01-13 14:00:00.,20003922.0,T1
+10001991,T1,temporal,high,Admission 20004030: discharge 2021-03-02 18:00:00 is before admission 2021-03-03 08:00:00.,20004030.0,T1
+10001997,T1,temporal,high,Admission 20004039: discharge 2022-11-17 19:00:00 is before admission 2022-11-20 09:00:00.,20004039.0,T1
+10000065,T2,temporal,high,19 measurement(s) recorded after date of death 2023-02-09 (first: potassium at 2023-03-03 05:06:00).,20000126.0,T2
+10000092,T2,temporal,high,20 measurement(s) recorded after date of death 2022-03-25 (first: creatinine at 2022-04-05 05:31:00).,20000185.0,T2
+10000166,T2,temporal,high,28 measurement(s) recorded after date of death 2020-09-12 (first: temperature at 2020-09-24 00:40:00).,20000325.0,T2
+10000320,T2,temporal,high,26 measurement(s) recorded after date of death 2023-02-22 (first: heart_rate at 2023-03-05 16:53:00).,20000643.0,T2
+10000340,T2,temporal,high,26 measurement(s) recorded after date of death 2022-03-25 (first: temperature at 2022-04-12 03:46:00).,20000687.0,T2
+10000341,T2,temporal,high,25 measurement(s) recorded after date of death 2021-11-17 (first: hba1c at 2021-12-15 22:48:00).,20000688.0,T2
+10000379,T2,temporal,high,24 measurement(s) recorded after date of death 2021-01-18 (first: spo2 at 2021-01-30 12:26:00).,20000768.0,T2
+10000431,T2,temporal,high,25 measurement(s) recorded after date of death 2022-07-23 (first: heart_rate at 2022-08-09 02:35:00).,20000859.0,T2
+10000459,T2,temporal,high,22 measurement(s) recorded after date of death 2022-09-13 (first: tsh at 2022-10-09 21:48:00).,20000915.0,T2
+10000479,T2,temporal,high,28 measurement(s) recorded after date of death 2020-05-25 (first: sbp at 2020-06-15 08:04:00).,20000957.0,T2
+10000502,T2,temporal,high,21 measurement(s) recorded after date of death 2019-07-24 (first: hemoglobin at 2019-07-26 06:32:00).,20001001.0,T2
+10000512,T2,temporal,high,22 measurement(s) recorded after date of death 2022-08-13 (first: wbc at 2022-09-10 09:13:00).,20001024.0,T2
+10000634,T2,temporal,high,23 measurement(s) recorded after date of death 2020-01-28 (first: tsh at 2020-02-07 05:45:00).,20001273.0,T2
+10000659,T2,temporal,high,23 measurement(s) recorded after date of death 2023-05-02 (first: tsh at 2023-05-21 21:26:00).,20001325.0,T2
+10000669,T2,temporal,high,24 measurement(s) recorded after date of death 2019-08-07 (first: temperature at 2019-08-10 19:43:00).,20001348.0,T2
+10000677,T2,temporal,high,23 measurement(s) recorded after date of death 2021-08-18 (first: glucose at 2021-08-28 23:28:00).,20001366.0,T2
+10000717,T2,temporal,high,27 measurement(s) recorded after date of death 2020-11-12 (first: potassium at 2020-11-24 22:18:00).,20001450.0,T2
+10000740,T2,temporal,high,22 measurement(s) recorded after date of death 2020-04-18 (first: tsh at 2020-05-10 05:11:00).,20001506.0,T2
+10000754,T2,temporal,high,26 measurement(s) recorded after date of death 2022-09-17 (first: sbp at 2022-09-21 06:27:00).,20001535.0,T2
+10000789,T2,temporal,high,21 measurement(s) recorded after date of death 2018-12-24 (first: temperature at 2019-01-16 16:14:00).,20001603.0,T2
+10000819,T2,temporal,high,21 measurement(s) recorded after date of death 2023-03-09 (first: heart_rate at 2023-03-26 07:57:00).,20001674.0,T2
+10000944,T2,temporal,high,24 measurement(s) recorded after date of death 2022-07-02 (first: sbp at 2022-07-25 02:09:00).,20001929.0,T2
+10000962,T2,temporal,high,25 measurement(s) recorded after date of death 2021-01-19 (first: glucose at 2021-02-16 07:37:00).,20001962.0,T2
+10001066,T2,temporal,high,23 measurement(s) recorded after date of death 2019-03-26 (first: wbc at 2019-03-28 17:37:00).,20002173.0,T2
+10001089,T2,temporal,high,26 measurement(s) recorded after date of death 2020-03-17 (first: sbp at 2020-04-08 05:50:00).,20002217.0,T2
+10001126,T2,temporal,high,25 measurement(s) recorded after date of death 2023-11-30 (first: glucose at 2023-12-13 03:48:00).,20002292.0,T2
+10001150,T2,temporal,high,23 measurement(s) recorded after date of death 2021-04-17 (first: heart_rate at 2021-05-13 17:35:00).,20002344.0,T2
+10001241,T2,temporal,high,22 measurement(s) recorded after date of death 2020-04-13 (first: glucose at 2020-05-06 21:32:00).,20002544.0,T2
+10001294,T2,temporal,high,24 measurement(s) recorded after date of death 2020-02-27 (first: hba1c at 2020-03-13 10:11:00).,20002654.0,T2
+10001321,T2,temporal,high,23 measurement(s) recorded after date of death 2023-10-25 (first: creatinine at 2023-11-05 11:47:00).,20002711.0,T2
+10001327,T2,temporal,high,22 measurement(s) recorded after date of death 2019-01-26 (first: sbp at 2019-02-07 04:36:00).,20002719.0,T2
+10001376,T2,temporal,high,22 measurement(s) recorded after date of death 2022-04-22 (first: hemoglobin at 2022-05-01 04:50:00).,20002816.0,T2
+10001387,T2,temporal,high,18 measurement(s) recorded after date of death 2020-06-26 (first: sbp at 2020-06-28 21:38:00).,20002838.0,T2
+10001391,T2,temporal,high,20 measurement(s) recorded after date of death 2020-12-16 (first: spo2 at 2020-12-29 07:05:00).,20002845.0,T2
+10001529,T2,temporal,high,23 measurement(s) recorded after date of death 2020-10-12 (first: wbc at 2020-10-19 04:16:00).,20003115.0,T2
+10001585,T2,temporal,high,24 measurement(s) recorded after date of death 2021-10-20 (first: heart_rate at 2021-11-09 08:43:00).,20003226.0,T2
+10001620,T2,temporal,high,23 measurement(s) recorded after date of death 2020-07-04 (first: tsh at 2020-07-18 15:56:00).,20003299.0,T2
+10001650,T2,temporal,high,23 measurement(s) recorded after date of death 2020-12-15 (first: sodium at 2020-12-21 22:58:00).,20003359.0,T2
+10001711,T2,temporal,high,26 measurement(s) recorded after date of death 2020-02-20 (first: hba1c at 2020-03-01 00:30:00).,20003478.0,T2
+10001806,T2,temporal,high,24 measurement(s) recorded after date of death 2019-10-25 (first: hemoglobin at 2019-11-13 03:16:00).,20003652.0,T2
+10001858,T2,temporal,high,28 measurement(s) recorded after date of death 2020-06-24 (first: hba1c at 2020-06-27 17:26:00).,20003756.0,T2
+10001930,T2,temporal,high,20 measurement(s) recorded after date of death 2021-09-11 (first: hba1c at 2021-10-05 02:06:00).,20003897.0,T2
+10001936,T2,temporal,high,24 measurement(s) recorded after date of death 2021-09-09 (first: sodium at 2021-10-07 15:42:00).,20003910.0,T2
+10001938,T2,temporal,high,27 measurement(s) recorded after date of death 2020-03-31 (first: sbp at 2020-04-30 18:09:00).,20003915.0,T2
+10001448,D1,demographic,high,O80 (Encounter for full-term uncomplicated delivery) is specific to sex F but patient is M.,20002951.0,D1
+10000156,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20000305.0,D1
+10001622,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20003302.0,D1
+10000680,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20001370.0,D1
+10000957,D1,demographic,high,O80 (Encounter for full-term uncomplicated delivery) is specific to sex F but patient is M.,20001956.0,D1
+10001785,D1,demographic,high,O80 (Encounter for full-term uncomplicated delivery) is specific to sex F but patient is M.,20003611.0,D1
+10001476,D1,demographic,high,O80 (Encounter for full-term uncomplicated delivery) is specific to sex F but patient is M.,20003009.0,D1
+10000833,D1,demographic,high,O80 (Encounter for full-term uncomplicated delivery) is specific to sex F but patient is M.,20001701.0,D1
+10000762,D1,demographic,high,O80 (Encounter for full-term uncomplicated delivery) is specific to sex F but patient is M.,20001546.0,D1
+10000802,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20001626.0,D1
+10001517,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20003084.0,D1
+10000322,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20000645.0,D1
+10000095,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20000189.0,D1
+10000272,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20000539.0,D1
+10001378,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20002820.0,D1
+10001004,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20002042.0,D1
+10001225,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20002512.0,D1
+10001665,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20003389.0,D1
+10000202,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20000398.0,D1
+10001161,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20002366.0,D1
+10000844,D1,demographic,high,O80 (Encounter for full-term uncomplicated delivery) is specific to sex F but patient is M.,20001716.0,D1
+10001025,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20002090.0,D1
+10000115,D1,demographic,high,O80 (Encounter for full-term uncomplicated delivery) is specific to sex F but patient is M.,20000229.0,D1
+10000948,D1,demographic,high,O80 (Encounter for full-term uncomplicated delivery) is specific to sex F but patient is M.,20001938.0,D1
+10001798,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20003636.0,D1
+10001664,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20003386.0,D1
+10000260,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20000513.0,D1
+10001183,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20002413.0,D1
+10000538,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20001078.0,D1
+10001151,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20002345.0,D1
+10001834,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20003709.0,D1
+10001725,D1,demographic,high,O80 (Encounter for full-term uncomplicated delivery) is specific to sex F but patient is M.,20003507.0,D1
+10000477,D1,demographic,high,O80 (Encounter for full-term uncomplicated delivery) is specific to sex F but patient is M.,20000951.0,D1
+10000430,D1,demographic,high,O80 (Encounter for full-term uncomplicated delivery) is specific to sex F but patient is M.,20000856.0,D1
+10001970,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20003983.0,D1
+10000280,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20000554.0,D1
+10000089,D1,demographic,high,O80 (Encounter for full-term uncomplicated delivery) is specific to sex F but patient is M.,20000177.0,D1
+10000614,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20001234.0,D1
+10001856,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20003751.0,D1
+10000727,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20001473.0,D1
+10001441,D1,demographic,high,O80 (Encounter for full-term uncomplicated delivery) is specific to sex F but patient is M.,20002939.0,D1
+10001591,D1,demographic,high,O80 (Encounter for full-term uncomplicated delivery) is specific to sex F but patient is M.,20003235.0,D1
+10001493,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20003039.0,D1
+10001134,D1,demographic,high,C61 (Malignant neoplasm of prostate) is specific to sex M but patient is F.,20002310.0,D1
+10000501,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 72.,20000998.0,D2
+10000025,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 90.,20000049.0,D2
+10000020,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 83.,20000038.0,D2
+10000901,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 66.,20001830.0,D2
+10001422,D2,demographic,medium,C61 (Malignant neoplasm of prostate) expected at ages 40-90; patient age 19.,20002901.0,D2
+10000772,D2,demographic,medium,C61 (Malignant neoplasm of prostate) expected at ages 40-90; patient age 25.,20001569.0,D2
+10000387,D2,demographic,medium,C61 (Malignant neoplasm of prostate) expected at ages 40-90; patient age 24.,20000780.0,D2
+10001099,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 90.,20002236.0,D2
+10000672,D2,demographic,medium,C61 (Malignant neoplasm of prostate) expected at ages 40-90; patient age 31.,20001353.0,D2
+10001886,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 81.,20003809.0,D2
+10000778,D2,demographic,medium,C61 (Malignant neoplasm of prostate) expected at ages 40-90; patient age 18.,20001582.0,D2
+10001275,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 71.,20002611.0,D2
+10000757,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 68.,20001540.0,D2
+10001366,D2,demographic,medium,C61 (Malignant neoplasm of prostate) expected at ages 40-90; patient age 21.,20002800.0,D2
+10000646,D2,demographic,medium,C61 (Malignant neoplasm of prostate) expected at ages 40-90; patient age 30.,20001295.0,D2
+10000970,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 70.,20001977.0,D2
+10001916,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 70.,20003867.0,D2
+10001386,D2,demographic,medium,C61 (Malignant neoplasm of prostate) expected at ages 40-90; patient age 31.,20002837.0,D2
+10001222,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 62.,20002506.0,D2
+10000325,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 85.,20000653.0,D2
+10000829,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 86.,20001696.0,D2
+10001561,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 71.,20003173.0,D2
+10000753,D2,demographic,medium,C61 (Malignant neoplasm of prostate) expected at ages 40-90; patient age 29.,20001532.0,D2
+10001989,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 82.,20004023.0,D2
+10001655,D2,demographic,medium,C61 (Malignant neoplasm of prostate) expected at ages 40-90; patient age 19.,20003368.0,D2
+10001454,D2,demographic,medium,C61 (Malignant neoplasm of prostate) expected at ages 40-90; patient age 20.,20002964.0,D2
+10001423,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 89.,20002904.0,D2
+10000554,D2,demographic,medium,C61 (Malignant neoplasm of prostate) expected at ages 40-90; patient age 29.,20001113.0,D2
+10000960,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 69.,20001959.0,D2
+10001909,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 64.,20003854.0,D2
+10000389,D2,demographic,medium,C61 (Malignant neoplasm of prostate) expected at ages 40-90; patient age 23.,20000782.0,D2
+10001623,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 73.,20003305.0,D2
+10000187,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 59.,20000371.0,D2
+10001428,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 65.,20002914.0,D2
+10000111,D2,demographic,medium,C61 (Malignant neoplasm of prostate) expected at ages 40-90; patient age 28.,20000220.0,D2
+10001169,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 86.,20002382.0,D2
+10001872,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 71.,20003783.0,D2
+10000227,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 57.,20000452.0,D2
+10001446,D2,demographic,medium,C61 (Malignant neoplasm of prostate) expected at ages 40-90; patient age 26.,20002949.0,D2
+10000339,D2,demographic,medium,C61 (Malignant neoplasm of prostate) expected at ages 40-90; patient age 33.,20000684.0,D2
+10000038,D2,demographic,medium,C61 (Malignant neoplasm of prostate) expected at ages 40-90; patient age 24.,20000075.0,D2
+10000287,D2,demographic,medium,O80 (Encounter for full-term uncomplicated delivery) expected at ages 18-45; patient age 87.,20000567.0,D2
+10001767,D2,demographic,medium,C61 (Malignant neoplasm of prostate) expected at ages 40-90; patient age 19.,20003580.0,D2
+10000352,D2,demographic,medium,C61 (Malignant neoplasm of prostate) expected at ages 40-90; patient age 23.,20000709.0,D2
+10000037,U1,plausibility,medium,Glucose 5.3 mg/dL at 2021-12-23 03:35:00 is impossible in mg/dL but plausible in mmol/L (= 95 mg/dL); likely unit error.,20000072.0,U1
+10000076,U1,plausibility,medium,Glucose 11.6 mg/dL at 2022-03-07 19:08:00 is impossible in mg/dL but plausible in mmol/L (= 209 mg/dL); likely unit error.,20000148.0,U1
+10000130,U1,plausibility,medium,Glucose 4.8 mg/dL at 2023-02-02 18:00:00 is impossible in mg/dL but plausible in mmol/L (= 86 mg/dL); likely unit error.,20000256.0,U1
+10000184,U1,plausibility,medium,Glucose 5.3 mg/dL at 2020-12-09 09:39:00 is impossible in mg/dL but plausible in mmol/L (= 95 mg/dL); likely unit error.,20000364.0,U1
+10000225,U1,plausibility,medium,Glucose 4.6 mg/dL at 2022-11-04 18:30:00 is impossible in mg/dL but plausible in mmol/L (= 83 mg/dL); likely unit error.,20000447.0,U1
+10000247,U1,plausibility,medium,Glucose 4.5 mg/dL at 2021-12-27 05:23:00 is impossible in mg/dL but plausible in mmol/L (= 81 mg/dL); likely unit error.,20000495.0,U1
+10000256,U1,plausibility,medium,Glucose 4.9 mg/dL at 2022-06-25 23:25:00 is impossible in mg/dL but plausible in mmol/L (= 88 mg/dL); likely unit error.,20000506.0,U1
+10000301,U1,plausibility,medium,Glucose 3.9 mg/dL at 2022-11-03 04:39:00 is impossible in mg/dL but plausible in mmol/L (= 70 mg/dL); likely unit error.,20000595.0,U1
+10000315,U1,plausibility,medium,Glucose 5.5 mg/dL at 2022-04-10 13:24:00 is impossible in mg/dL but plausible in mmol/L (= 99 mg/dL); likely unit error.,20000629.0,U1
+10000326,U1,plausibility,medium,Glucose 5.4 mg/dL at 2020-07-27 07:29:00 is impossible in mg/dL but plausible in mmol/L (= 97 mg/dL); likely unit error.,20000656.0,U1
+10000334,U1,plausibility,medium,Glucose 6.4 mg/dL at 2019-01-14 17:31:00 is impossible in mg/dL but plausible in mmol/L (= 115 mg/dL); likely unit error.,20000673.0,U1
+10000473,U1,plausibility,medium,Glucose 5.1 mg/dL at 2020-11-03 12:13:00 is impossible in mg/dL but plausible in mmol/L (= 92 mg/dL); likely unit error.,20000943.0,U1
+10000559,U1,plausibility,medium,Glucose 5.7 mg/dL at 2023-04-05 16:10:00 is impossible in mg/dL but plausible in mmol/L (= 103 mg/dL); likely unit error.,20001122.0,U1
+10000593,U1,plausibility,medium,Glucose 5.4 mg/dL at 2020-10-31 15:24:00 is impossible in mg/dL but plausible in mmol/L (= 97 mg/dL); likely unit error.,20001187.0,U1
+10000639,U1,plausibility,medium,Glucose 9.0 mg/dL at 2020-10-20 09:38:00 is impossible in mg/dL but plausible in mmol/L (= 162 mg/dL); likely unit error.,20001283.0,U1
+10000655,U1,plausibility,medium,Glucose 4.6 mg/dL at 2020-10-06 14:55:00 is impossible in mg/dL but plausible in mmol/L (= 83 mg/dL); likely unit error.,20001316.0,U1
+10000707,U1,plausibility,medium,Glucose 8.7 mg/dL at 2023-10-24 19:27:00 is impossible in mg/dL but plausible in mmol/L (= 157 mg/dL); likely unit error.,20001428.0,U1
+10000774,U1,plausibility,medium,Glucose 5.7 mg/dL at 2020-10-19 11:17:00 is impossible in mg/dL but plausible in mmol/L (= 103 mg/dL); likely unit error.,20001573.0,U1
+10000781,U1,plausibility,medium,Glucose 5.3 mg/dL at 2020-12-15 23:10:00 is impossible in mg/dL but plausible in mmol/L (= 95 mg/dL); likely unit error.,20001586.0,U1
+10000809,U1,plausibility,medium,Glucose 5.0 mg/dL at 2021-06-07 08:08:00 is impossible in mg/dL but plausible in mmol/L (= 90 mg/dL); likely unit error.,20001647.0,U1
+10000832,U1,plausibility,medium,Glucose 5.1 mg/dL at 2019-04-23 04:40:00 is impossible in mg/dL but plausible in mmol/L (= 92 mg/dL); likely unit error.,20001700.0,U1
+10000845,U1,plausibility,medium,Glucose 4.9 mg/dL at 2021-04-14 20:18:00 is impossible in mg/dL but plausible in mmol/L (= 88 mg/dL); likely unit error.,20001718.0,U1
+10000959,U1,plausibility,medium,Glucose 5.9 mg/dL at 2020-12-23 19:39:00 is impossible in mg/dL but plausible in mmol/L (= 106 mg/dL); likely unit error.,20001958.0,U1
+10000974,U1,plausibility,medium,Glucose 4.3 mg/dL at 2022-05-19 06:08:00 is impossible in mg/dL but plausible in mmol/L (= 77 mg/dL); likely unit error.,20001986.0,U1
+10001062,U1,plausibility,medium,Glucose 5.5 mg/dL at 2021-09-23 08:37:00 is impossible in mg/dL but plausible in mmol/L (= 99 mg/dL); likely unit error.,20002164.0,U1
+10001120,U1,plausibility,medium,Glucose 4.8 mg/dL at 2022-12-04 02:29:00 is impossible in mg/dL but plausible in mmol/L (= 86 mg/dL); likely unit error.,20002280.0,U1
+10001125,U1,plausibility,medium,Glucose 12.0 mg/dL at 2021-06-05 03:05:00 is impossible in mg/dL but plausible in mmol/L (= 216 mg/dL); likely unit error.,20002288.0,U1
+10001211,U1,plausibility,medium,Glucose 10.9 mg/dL at 2019-09-29 14:20:00 is impossible in mg/dL but plausible in mmol/L (= 196 mg/dL); likely unit error.,20002478.0,U1
+10001340,U1,plausibility,medium,Glucose 6.9 mg/dL at 2022-04-18 15:00:00 is impossible in mg/dL but plausible in mmol/L (= 124 mg/dL); likely unit error.,20002745.0,U1
+10001345,U1,plausibility,medium,Glucose 6.7 mg/dL at 2021-03-04 23:12:00 is impossible in mg/dL but plausible in mmol/L (= 121 mg/dL); likely unit error.,20002755.0,U1
+10001346,U1,plausibility,medium,Glucose 5.5 mg/dL at 2019-09-28 09:14:00 is impossible in mg/dL but plausible in mmol/L (= 99 mg/dL); likely unit error.,20002757.0,U1
+10001374,U1,plausibility,medium,Glucose 5.5 mg/dL at 2020-10-06 08:19:00 is impossible in mg/dL but plausible in mmol/L (= 99 mg/dL); likely unit error.,20002813.0,U1
+10001402,U1,plausibility,medium,Glucose 5.3 mg/dL at 2019-10-17 02:26:00 is impossible in mg/dL but plausible in mmol/L (= 95 mg/dL); likely unit error.,20002863.0,U1
+10001429,U1,plausibility,medium,Glucose 5.3 mg/dL at 2019-02-07 13:15:00 is impossible in mg/dL but plausible in mmol/L (= 95 mg/dL); likely unit error.,20002915.0,U1
+10001436,U1,plausibility,medium,Glucose 4.7 mg/dL at 2020-10-31 00:19:00 is impossible in mg/dL but plausible in mmol/L (= 85 mg/dL); likely unit error.,20002927.0,U1
+10001450,U1,plausibility,medium,Glucose 10.8 mg/dL at 2019-05-23 16:10:00 is impossible in mg/dL but plausible in mmol/L (= 194 mg/dL); likely unit error.,20002955.0,U1
+10001512,U1,plausibility,medium,Glucose 4.9 mg/dL at 2021-08-21 07:37:00 is impossible in mg/dL but plausible in mmol/L (= 88 mg/dL); likely unit error.,20003074.0,U1
+10001560,U1,plausibility,medium,Glucose 5.8 mg/dL at 2020-04-16 04:03:00 is impossible in mg/dL but plausible in mmol/L (= 104 mg/dL); likely unit error.,20003172.0,U1
+10001568,U1,plausibility,medium,Glucose 4.3 mg/dL at 2022-09-12 21:30:00 is impossible in mg/dL but plausible in mmol/L (= 77 mg/dL); likely unit error.,20003187.0,U1
+10001646,U1,plausibility,medium,Glucose 6.6 mg/dL at 2020-08-20 21:42:00 is impossible in mg/dL but plausible in mmol/L (= 119 mg/dL); likely unit error.,20003351.0,U1
+10001753,U1,plausibility,medium,Glucose 5.2 mg/dL at 2020-07-26 15:17:00 is impossible in mg/dL but plausible in mmol/L (= 94 mg/dL); likely unit error.,20003556.0,U1
+10001766,U1,plausibility,medium,Glucose 5.5 mg/dL at 2020-10-15 21:04:00 is impossible in mg/dL but plausible in mmol/L (= 99 mg/dL); likely unit error.,20003579.0,U1
+10001836,U1,plausibility,medium,Glucose 4.4 mg/dL at 2021-06-13 12:03:00 is impossible in mg/dL but plausible in mmol/L (= 79 mg/dL); likely unit error.,20003713.0,U1
+10001918,U1,plausibility,medium,Glucose 5.2 mg/dL at 2020-08-10 05:13:00 is impossible in mg/dL but plausible in mmol/L (= 94 mg/dL); likely unit error.,20003873.0,U1
+10000063,P1,plausibility,high,"sbp = 612.22 mmHg at 2019-06-20 11:26:00 is outside the physiologically plausible range (40, 300).",20000120.0,P1
+10000150,P1,plausibility,high,"sodium = 447.23 mmol/L at 2021-09-23 02:29:00 is outside the physiologically plausible range (100, 190).",20000295.0,P1
+10000158,P1,plausibility,high,"heart_rate = 492.06 bpm at 2024-02-14 20:06:00 is outside the physiologically plausible range (20, 300).",20000309.0,P1
+10000271,P1,plausibility,high,"sodium = 365.26 mmol/L at 2020-01-03 14:04:00 is outside the physiologically plausible range (100, 190).",20000538.0,P1
+10000330,P1,plausibility,high,"heart_rate = 440.3 bpm at 2022-06-17 14:40:00 is outside the physiologically plausible range (20, 300).",20000666.0,P1
+10000446,P1,plausibility,high,"spo2 = 216.19 % at 2019-11-27 11:39:00 is outside the physiologically plausible range (50, 100).",20000890.0,P1
+10000452,P1,plausibility,high,"tsh = 330.39 mIU/L at 2021-12-07 19:03:00 is outside the physiologically plausible range (0.005, 200.0).",20000899.0,P1
+10000583,P1,plausibility,high,"heart_rate = 605.81 bpm at 2022-04-03 07:51:00 is outside the physiologically plausible range (20, 300).",20001168.0,P1
+10000604,P1,plausibility,high,"hemoglobin = 38.16 g/dL at 2019-08-15 12:41:00 is outside the physiologically plausible range (2.0, 25.0).",20001212.0,P1
+10000632,P1,plausibility,high,"spo2 = 236.79 % at 2019-08-15 14:10:00 is outside the physiologically plausible range (50, 100).",20001271.0,P1
+10000663,P1,plausibility,high,"heart_rate = 469.16 bpm at 2019-10-24 13:02:00 is outside the physiologically plausible range (20, 300).",20001334.0,P1
+10000697,P1,plausibility,high,"sodium = 405.17 mmol/L at 2021-02-18 01:46:00 is outside the physiologically plausible range (100, 190).",20001407.0,P1
+10000748,P1,plausibility,high,"spo2 = 249.78 % at 2022-01-04 12:38:00 is outside the physiologically plausible range (50, 100).",20001524.0,P1
+10000791,P1,plausibility,high,"wbc = 722.34 K/uL at 2020-06-03 19:51:00 is outside the physiologically plausible range (0.1, 300.0).",20001605.0,P1
+10000988,P1,plausibility,high,"potassium = 22.18 mmol/L at 2019-01-23 12:43:00 is outside the physiologically plausible range (1.5, 10.0).",20002008.0,P1
+10000989,P1,plausibility,high,"sodium = 285.61 mmol/L at 2022-02-07 05:56:00 is outside the physiologically plausible range (100, 190).",20002009.0,P1
+10001058,P1,plausibility,high,"creatinine = 35.2 mg/dL at 2021-11-05 00:11:00 is outside the physiologically plausible range (0.1, 25.0).",20002157.0,P1
+10001081,P1,plausibility,high,"hba1c = 41.95 % at 2022-05-23 17:15:00 is outside the physiologically plausible range (3.0, 20.0).",20002199.0,P1
+10001128,P1,plausibility,high,"spo2 = 198.87 % at 2021-11-05 17:04:00 is outside the physiologically plausible range (50, 100).",20002296.0,P1
+10001267,P1,plausibility,high,"hemoglobin = 40.18 g/dL at 2020-04-16 15:15:00 is outside the physiologically plausible range (2.0, 25.0).",20002592.0,P1
+10001298,P1,plausibility,high,"temperature = 76.79 degC at 2022-10-03 06:29:00 is outside the physiologically plausible range (25.0, 45.0).",20002662.0,P1
+10001303,P1,plausibility,high,"creatinine = 40.47 mg/dL at 2020-12-20 05:53:00 is outside the physiologically plausible range (0.1, 25.0).",20002670.0,P1
+10001358,P1,plausibility,high,"spo2 = 179.86 % at 2020-10-04 13:42:00 is outside the physiologically plausible range (50, 100).",20002785.0,P1
+10001371,P1,plausibility,high,"heart_rate = 578.22 bpm at 2021-08-26 18:17:00 is outside the physiologically plausible range (20, 300).",20002808.0,P1
+10001373,P1,plausibility,high,"spo2 = 154.87 % at 2020-05-28 11:44:00 is outside the physiologically plausible range (50, 100).",20002811.0,P1
+10001569,P1,plausibility,high,"creatinine = 45.17 mg/dL at 2019-11-21 00:06:00 is outside the physiologically plausible range (0.1, 25.0).",20003188.0,P1
+10001572,P1,plausibility,high,"hba1c = 34.59 % at 2022-04-30 05:15:00 is outside the physiologically plausible range (3.0, 20.0).",20003196.0,P1
+10001610,P1,plausibility,high,"wbc = 644.75 K/uL at 2021-04-04 13:35:00 is outside the physiologically plausible range (0.1, 300.0).",20003280.0,P1
+10001662,P1,plausibility,high,"spo2 = 234.05 % at 2022-07-27 12:23:00 is outside the physiologically plausible range (50, 100).",20003383.0,P1
+10001679,P1,plausibility,high,"heart_rate = 737.14 bpm at 2019-12-15 01:32:00 is outside the physiologically plausible range (20, 300).",20003418.0,P1
+10001699,P1,plausibility,high,"potassium = 22.91 mmol/L at 2021-08-02 05:41:00 is outside the physiologically plausible range (1.5, 10.0).",20003457.0,P1
+10001708,P1,plausibility,high,"spo2 = 197.29 % at 2022-11-25 07:20:00 is outside the physiologically plausible range (50, 100).",20003474.0,P1
+10001713,P1,plausibility,high,"sodium = 267.65 mmol/L at 2020-04-28 14:33:00 is outside the physiologically plausible range (100, 190).",20003481.0,P1
+10001738,P1,plausibility,high,"spo2 = 165.59 % at 2022-03-04 06:58:00 is outside the physiologically plausible range (50, 100).",20003530.0,P1
+10001762,P1,plausibility,high,"hba1c = 46.23 % at 2021-12-19 07:37:00 is outside the physiologically plausible range (3.0, 20.0).",20003572.0,P1
+10001776,P1,plausibility,high,"tsh = 370.03 mIU/L at 2020-04-11 02:45:00 is outside the physiologically plausible range (0.005, 200.0).",20003596.0,P1
+10001779,P1,plausibility,high,"spo2 = 185.12 % at 2021-01-31 20:57:00 is outside the physiologically plausible range (50, 100).",20003600.0,P1
+10001796,P1,plausibility,high,"temperature = 98.09 degC at 2022-03-08 10:02:00 is outside the physiologically plausible range (25.0, 45.0).",20003633.0,P1
+10001813,P1,plausibility,high,"temperature = 86.84 degC at 2024-04-14 10:07:00 is outside the physiologically plausible range (25.0, 45.0).",20003668.0,P1
+10001818,P1,plausibility,high,"temperature = 102.43 degC at 2021-03-14 01:07:00 is outside the physiologically plausible range (25.0, 45.0).",20003676.0,P1
+10001899,P1,plausibility,high,"sodium = 320.85 mmol/L at 2022-11-17 06:21:00 is outside the physiologically plausible range (100, 190).",20003836.0,P1
+10001920,P1,plausibility,high,"hba1c = 43.34 % at 2020-11-10 08:43:00 is outside the physiologically plausible range (3.0, 20.0).",20003876.0,P1
+10001929,P1,plausibility,high,"potassium = 16.58 mmol/L at 2021-06-01 05:55:00 is outside the physiologically plausible range (1.5, 10.0).",20003895.0,P1
+10001945,P1,plausibility,high,"heart_rate = 499.35 bpm at 2020-03-02 20:12:00 is outside the physiologically plausible range (20, 300).",20003928.0,P1
+10000011,C1,integrity,medium,hemoglobin has 2 conflicting values (14.42 vs 17.95) at 2019-02-18 03:11:00.,20000019.0,C1
+10000040,C1,integrity,medium,sodium has 2 conflicting values (138.39 vs 159.15) at 2021-06-30 09:33:00.,20000079.0,C1
+10000116,C1,integrity,medium,potassium has 2 conflicting values (4.57 vs 5.68) at 2019-03-24 10:11:00.,20000231.0,C1
+10000140,C1,integrity,medium,tsh has 2 conflicting values (1.9 vs 2.45) at 2022-05-20 02:47:00.,20000276.0,C1
+10000165,C1,integrity,medium,creatinine has 2 conflicting values (0.86 vs 1.1) at 2023-07-09 04:23:00.,20000323.0,C1
+10000173,C1,integrity,medium,sodium has 2 conflicting values (139.59 vs 160.53) at 2020-04-29 13:51:00.,20000340.0,C1
+10000231,C1,integrity,medium,sodium has 2 conflicting values (144.03 vs 179.81) at 2022-01-17 08:03:00.,20000459.0,C1
+10000267,C1,integrity,medium,tsh has 2 conflicting values (2.4 vs 3.34) at 2020-07-26 13:22:00.,20000529.0,C1
+10000307,C1,integrity,medium,hemoglobin has 2 conflicting values (15.07 vs 21.99) at 2022-12-06 08:11:00.,20000608.0,C1
+10000391,C1,integrity,medium,wbc has 2 conflicting values (9.07 vs 13.11) at 2022-07-02 18:13:00.,20000787.0,C1
+10000416,C1,integrity,medium,glucose has 2 conflicting values (84.24 vs 109.72) at 2019-12-31 12:06:00.,20000832.0,C1
+10000427,C1,integrity,medium,glucose has 2 conflicting values (89.98 vs 118.68) at 2020-12-14 07:41:00.,20000851.0,C1
+10000470,C1,integrity,medium,glucose has 2 conflicting values (81.91 vs 117.0) at 2021-12-20 01:38:00.,20000938.0,C1
+10000528,C1,integrity,medium,glucose has 2 conflicting values (182.27 vs 245.53) at 2021-03-17 17:53:00.,20001055.0,C1
+10000562,C1,integrity,medium,sodium has 2 conflicting values (138.92 vs 187.72) at 2019-09-15 15:05:00.,20001129.0,C1
+10000648,C1,integrity,medium,wbc has 2 conflicting values (7.05 vs 9.65) at 2021-03-23 23:31:00.,20001300.0,C1
+10000651,C1,integrity,medium,hemoglobin has 2 conflicting values (15.05 vs 18.71) at 2021-09-02 00:50:00.,20001305.0,C1
+10000730,C1,integrity,medium,hemoglobin has 2 conflicting values (12.98 vs 16.63) at 2020-08-19 18:17:00.,20001480.0,C1
+10000750,C1,integrity,medium,hemoglobin has 2 conflicting values (14.6 vs 20.31) at 2021-06-12 11:57:00.,20001527.0,C1
+10000795,C1,integrity,medium,hba1c has 2 conflicting values (4.17 vs 5.8) at 2021-01-25 09:52:00.,20001611.0,C1
+10000867,C1,integrity,medium,wbc has 2 conflicting values (7.12 vs 8.58) at 2021-08-01 01:16:00.,20001761.0,C1
+10000908,C1,integrity,medium,sodium has 2 conflicting values (138.12 vs 182.5) at 2020-06-26 19:48:00.,20001847.0,C1
+10000920,C1,integrity,medium,wbc has 2 conflicting values (8.32 vs 10.98) at 2022-09-03 15:32:00.,20001880.0,C1
+10000945,C1,integrity,medium,sodium has 2 conflicting values (141.06 vs 182.95) at 2022-11-03 18:21:00.,20001931.0,C1
+10000946,C1,integrity,medium,sodium has 2 conflicting values (138.7 vs 172.73) at 2024-03-23 13:27:00.,20001934.0,C1
+10001029,C1,integrity,medium,hemoglobin has 2 conflicting values (13.95 vs 19.89) at 2022-01-27 03:36:00.,20002100.0,C1
+10001088,C1,integrity,medium,tsh has 2 conflicting values (1.89 vs 2.6) at 2020-02-05 01:09:00.,20002215.0,C1
+10001154,C1,integrity,medium,hemoglobin has 2 conflicting values (15.19 vs 21.46) at 2022-11-05 23:15:00.,20002352.0,C1
+10001205,C1,integrity,medium,tsh has 2 conflicting values (2.1 vs 3.14) at 2022-03-06 06:48:00.,20002465.0,C1
+10001383,C1,integrity,medium,sodium has 2 conflicting values (141.12 vs 162.29) at 2022-07-19 22:23:00.,20002832.0,C1
+10001413,C1,integrity,medium,potassium has 2 conflicting values (4.51 vs 5.59) at 2022-12-10 23:57:00.,20002883.0,C1
+10001438,C1,integrity,medium,tsh has 2 conflicting values (2.26 vs 3.04) at 2022-07-30 19:21:00.,20002933.0,C1
+10001464,C1,integrity,medium,creatinine has 2 conflicting values (1.04 vs 1.51) at 2019-12-30 07:30:00.,20002987.0,C1
+10001466,C1,integrity,medium,wbc has 2 conflicting values (4.99 vs 6.31) at 2021-02-14 12:06:00.,20002989.0,C1
+10001498,C1,integrity,medium,tsh has 2 conflicting values (2.36 vs 2.9) at 2021-01-02 08:14:00.,20003047.0,C1
+10001671,C1,integrity,medium,glucose has 2 conflicting values (86.37 vs 105.8) at 2020-12-13 05:00:00.,20003404.0,C1
+10001696,C1,integrity,medium,sodium has 2 conflicting values (138.7 vs 167.96) at 2023-03-08 02:19:00.,20003450.0,C1
+10001704,C1,integrity,medium,tsh has 2 conflicting values (2.02 vs 2.71) at 2022-07-27 01:53:00.,20003469.0,C1
+10001719,C1,integrity,medium,tsh has 2 conflicting values (0.88 vs 1.15) at 2021-12-31 11:43:00.,20003494.0,C1
+10001724,C1,integrity,medium,glucose has 2 conflicting values (77.85 vs 114.6) at 2020-04-30 19:09:00.,20003506.0,C1
+10001788,C1,integrity,medium,hemoglobin has 2 conflicting values (14.24 vs 20.89) at 2019-11-07 05:54:00.,20003615.0,C1
+10001845,C1,integrity,medium,wbc has 2 conflicting values (8.67 vs 11.25) at 2020-12-11 06:29:00.,20003733.0,C1
+10001904,C1,integrity,medium,glucose has 2 conflicting values (76.7 vs 92.19) at 2021-05-26 09:46:00.,20003845.0,C1
+10001925,C1,integrity,medium,wbc has 2 conflicting values (5.8 vs 8.65) at 2020-06-23 23:43:00.,20003888.0,C1
+10001470,M1,pharmacological,medium,piperacillin-tazobactam prescribed but none of its indications ['A41.9'] is coded.,20002996.0,M1
+10000731,M1,pharmacological,medium,piperacillin-tazobactam prescribed but none of its indications ['A41.9'] is coded.,20001482.0,M1
+10000595,M1,pharmacological,medium,piperacillin-tazobactam prescribed but none of its indications ['A41.9'] is coded.,20001191.0,M1
+10001933,M1,pharmacological,medium,levothyroxine prescribed but none of its indications ['E03.9'] is coded.,20003903.0,M1
+10000760,M1,pharmacological,medium,metformin prescribed but none of its indications ['E11.9'] is coded.,20001543.0,M1
+10000567,M1,pharmacological,medium,metformin prescribed but none of its indications ['E11.9'] is coded.,20001134.0,M1
+10001759,M1,pharmacological,medium,leuprolide prescribed but none of its indications ['C61'] is coded.,20003567.0,M1
+10000014,M1,pharmacological,medium,leuprolide prescribed but none of its indications ['C61'] is coded.,20000026.0,M1
+10001520,M1,pharmacological,medium,metformin prescribed but none of its indications ['E11.9'] is coded.,20003091.0,M1
+10000472,M1,pharmacological,medium,insulin glargine prescribed but none of its indications ['E11.9'] is coded.,20000941.0,M1
+10000412,M1,pharmacological,medium,leuprolide prescribed but none of its indications ['C61'] is coded.,20000826.0,M1
+10000949,M1,pharmacological,medium,"lisinopril prescribed but none of its indications ['I10', 'N18.3'] is coded.",20001941.0,M1
+10001349,M1,pharmacological,medium,"lisinopril prescribed but none of its indications ['I10', 'N18.3'] is coded.",20002763.0,M1
+10001900,M1,pharmacological,medium,amlodipine prescribed but none of its indications ['I10'] is coded.,20003837.0,M1
+10001841,M1,pharmacological,medium,piperacillin-tazobactam prescribed but none of its indications ['A41.9'] is coded.,20003726.0,M1
+10001270,M1,pharmacological,medium,metformin prescribed but none of its indications ['E11.9'] is coded.,20002600.0,M1
+10001853,M1,pharmacological,medium,leuprolide prescribed but none of its indications ['C61'] is coded.,20003747.0,M1
+10000327,M1,pharmacological,medium,leuprolide prescribed but none of its indications ['C61'] is coded.,20000659.0,M1
+10000296,M1,pharmacological,medium,levothyroxine prescribed but none of its indications ['E03.9'] is coded.,20000586.0,M1
+10000913,M1,pharmacological,medium,metformin prescribed but none of its indications ['E11.9'] is coded.,20001861.0,M1
+10001226,M1,pharmacological,medium,metformin prescribed but none of its indications ['E11.9'] is coded.,20002513.0,M1
+10000162,M1,pharmacological,medium,"lisinopril prescribed but none of its indications ['I10', 'N18.3'] is coded.",20000317.0,M1
+10001244,M1,pharmacological,medium,insulin glargine prescribed but none of its indications ['E11.9'] is coded.,20002547.0,M1
+10001469,M1,pharmacological,medium,insulin glargine prescribed but none of its indications ['E11.9'] is coded.,20002995.0,M1
+10000333,M1,pharmacological,medium,metformin prescribed but none of its indications ['E11.9'] is coded.,20000670.0,M1
+10000558,M1,pharmacological,medium,amlodipine prescribed but none of its indications ['I10'] is coded.,20001118.0,M1
+10001996,M1,pharmacological,medium,metformin prescribed but none of its indications ['E11.9'] is coded.,20004038.0,M1
+10001621,M1,pharmacological,medium,piperacillin-tazobactam prescribed but none of its indications ['A41.9'] is coded.,20003300.0,M1
+10000846,M1,pharmacological,medium,metformin prescribed but none of its indications ['E11.9'] is coded.,20001719.0,M1
+10001214,M1,pharmacological,medium,metformin prescribed but none of its indications ['E11.9'] is coded.,20002487.0,M1
+10001563,M1,pharmacological,medium,leuprolide prescribed but none of its indications ['C61'] is coded.,20003177.0,M1
+10001252,M1,pharmacological,medium,piperacillin-tazobactam prescribed but none of its indications ['A41.9'] is coded.,20002566.0,M1
+10001468,M1,pharmacological,medium,leuprolide prescribed but none of its indications ['C61'] is coded.,20002994.0,M1
+10000183,M1,pharmacological,medium,piperacillin-tazobactam prescribed but none of its indications ['A41.9'] is coded.,20000361.0,M1
+10000592,M1,pharmacological,medium,"lisinopril prescribed but none of its indications ['I10', 'N18.3'] is coded.",20001184.0,M1
+10001963,M1,pharmacological,medium,amlodipine prescribed but none of its indications ['I10'] is coded.,20003964.0,M1
+10000101,M1,pharmacological,medium,metformin prescribed but none of its indications ['E11.9'] is coded.,20000199.0,M1
+10000866,M1,pharmacological,medium,ferrous sulfate prescribed but none of its indications ['D64.9'] is coded.,20001759.0,M1
+10000168,M1,pharmacological,medium,insulin glargine prescribed but none of its indications ['E11.9'] is coded.,20000327.0,M1
+10001793,M1,pharmacological,medium,metformin prescribed but none of its indications ['E11.9'] is coded.,20003625.0,M1
+10000215,M1,pharmacological,medium,levothyroxine prescribed but none of its indications ['E03.9'] is coded.,20000425.0,M1
+10000082,M1,pharmacological,medium,ferrous sulfate prescribed but none of its indications ['D64.9'] is coded.,20000161.0,M1
+10001757,M1,pharmacological,medium,insulin glargine prescribed but none of its indications ['E11.9'] is coded.,20003562.0,M1
+10001240,M1,pharmacological,medium,metformin prescribed but none of its indications ['E11.9'] is coded.,20002541.0,M1
+10000008,K1,causal,medium,"D64.9 (Anemia, unspecified) is not supported by its causal evidence: hemoglobin expected low, median 14.105 (ref 12-15.5, score -0.20, n=4).",,
+10000029,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 104.58 (ref 90-130, score -0.27, n=4).",,
+10000037,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 106.025 (ref 90-130, score -0.20, n=10).",,U1
+10000055,K1,causal,medium,"D64.9 (Anemia, unspecified) is not supported by its causal evidence: hemoglobin expected low, median 14.305 (ref 12-15.5, score -0.32, n=4).",,K1
+10000120,K1,causal,medium,"N18.3 (Chronic kidney disease, stage 3) is not supported by its causal evidence: creatinine expected high, median 0.73 (ref 0.6-1.2, score -0.57, n=3).",,K1
+10000157,K1,causal,medium,"A41.9 (Sepsis, unspecified organism) is not supported by its causal evidence: wbc expected high, median 6.15 (ref 4-11, score -0.39, n=1); heart_rate expected high, median 78.22 (ref 60-100, score -0.09, n=4); temperature expected high, median 36.425 (ref 36.1-37.5, score -0.54, n=2).",,K1
+10000245,K1,causal,medium,"E11.9 (Type 2 diabetes mellitus) is not supported by its causal evidence: hba1c expected high, median 4.26 (ref 4-5.6, score -0.68, n=1); glucose expected high, median 89.405 (ref 70-110, score -0.03, n=2).",,
+10000304,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 108.11 (ref 90-130, score -0.09, n=8).",,
+10000305,K1,causal,medium,"N18.3 (Chronic kidney disease, stage 3) is not supported by its causal evidence: creatinine expected high, median 0.735 (ref 0.6-1.2, score -0.55, n=4).",,K1
+10000311,K1,causal,medium,"D64.9 (Anemia, unspecified) is not supported by its causal evidence: hemoglobin expected low, median 16.68 (ref 13.5-17.5, score -0.59, n=3).",,K1
+10000324,K1,causal,medium,"N18.3 (Chronic kidney disease, stage 3) is not supported by its causal evidence: creatinine expected high, median 0.87 (ref 0.6-1.2, score -0.10, n=3).",,K1
+10000345,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 106.07 (ref 90-130, score -0.20, n=8).",,
+10000350,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 106.16 (ref 90-130, score -0.19, n=3).",,
+10000383,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 101.78 (ref 90-130, score -0.41, n=8).",,K1
+10000466,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 103.965 (ref 90-130, score -0.30, n=2).",,K1
+10000470,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 108.86 (ref 90-130, score -0.06, n=3).",,C1
+10000507,K1,causal,medium,"A41.9 (Sepsis, unspecified organism) is not supported by its causal evidence: wbc expected high, median 5.29 (ref 4-11, score -0.63, n=2); heart_rate expected high, median 73.535 (ref 60-100, score -0.32, n=6); temperature expected high, median 36.36 (ref 36.1-37.5, score -0.63, n=5).",,K1
+10000520,K1,causal,medium,"D64.9 (Anemia, unspecified) is not supported by its causal evidence: hemoglobin expected low, median 14.61 (ref 12-15.5, score -0.49, n=3).",,
+10000522,K1,causal,medium,"D64.9 (Anemia, unspecified) is not supported by its causal evidence: hemoglobin expected low, median 16.47 (ref 13.5-17.5, score -0.48, n=3).",,K1
+10000643,K1,causal,medium,"E11.9 (Type 2 diabetes mellitus) is not supported by its causal evidence: hba1c expected high, median 4.71 (ref 4-5.6, score -0.11, n=5); glucose expected high, median 82.92 (ref 70-110, score -0.35, n=5).",,K1
+10000671,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 99.265 (ref 90-130, score -0.54, n=2).",,
+10000739,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 100.46 (ref 90-130, score -0.48, n=4).",,K1
+10000747,K1,causal,medium,"D64.9 (Anemia, unspecified) is not supported by its causal evidence: hemoglobin expected low, median 17.02 (ref 13.5-17.5, score -0.76, n=5).",,K1
+10000760,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 109.62 (ref 90-130, score -0.02, n=3).",,M1
+10000772,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 102.88 (ref 90-130, score -0.36, n=6).",,D2
+10000780,K1,causal,medium,"D64.9 (Anemia, unspecified) is not supported by its causal evidence: hemoglobin expected low, median 15.835 (ref 13.5-17.5, score -0.17, n=2).",,K1
+10000800,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 105.26 (ref 90-130, score -0.24, n=12).",,
+10000814,K1,causal,medium,"N18.3 (Chronic kidney disease, stage 3) is not supported by its causal evidence: creatinine expected high, median 0.81 (ref 0.6-1.2, score -0.30, n=2).",,K1
+10000827,K1,causal,medium,"E11.9 (Type 2 diabetes mellitus) is not supported by its causal evidence: hba1c expected high, median 4.17 (ref 4-5.6, score -0.79, n=5); glucose expected high, median 89.505 (ref 70-110, score -0.02, n=4).",,
+10000838,K1,causal,medium,"E03.9 (Hypothyroidism, unspecified) is not supported by its causal evidence: tsh expected high, median 2.1 (ref 0.4-4, score -0.06, n=3).",,
+10000841,K1,causal,medium,"D64.9 (Anemia, unspecified) is not supported by its causal evidence: hemoglobin expected low, median 14.65 (ref 12-15.5, score -0.51, n=3).",,K1
+10000853,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 107.26 (ref 90-130, score -0.14, n=9).",,K1
+10000921,K1,causal,medium,"E11.9 (Type 2 diabetes mellitus) is not supported by its causal evidence: hba1c expected high, median 4.76 (ref 4-5.6, score -0.05, n=5); glucose expected high, median 81.84 (ref 70-110, score -0.41, n=5).",,
+10000951,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 103.48 (ref 90-130, score -0.33, n=7).",,K1
+10000958,K1,causal,medium,"D64.9 (Anemia, unspecified) is not supported by its causal evidence: hemoglobin expected low, median 16.685 (ref 13.5-17.5, score -0.59, n=2).",,
+10000959,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 105.46 (ref 90-130, score -0.23, n=3).",,U1
+10000983,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 99.38 (ref 90-130, score -0.53, n=6).",,K1
+10000992,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 108.425 (ref 90-130, score -0.08, n=10).",,K1
+10001007,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 102.17 (ref 90-130, score -0.39, n=10).",,K1
+10001016,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 102.78 (ref 90-130, score -0.36, n=11).",,K1
+10001034,K1,causal,medium,"N18.3 (Chronic kidney disease, stage 3) is not supported by its causal evidence: creatinine expected high, median 0.86 (ref 0.6-1.2, score -0.13, n=3).",,K1
+10001045,K1,causal,medium,"E11.9 (Type 2 diabetes mellitus) is not supported by its causal evidence: hba1c expected high, median 4.425 (ref 4-5.6, score -0.47, n=2); glucose expected high, median 80.29 (ref 70-110, score -0.49, n=2).",,K1
+10001052,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 107.01 (ref 90-130, score -0.15, n=4).",,K1
+10001074,K1,causal,medium,"D64.9 (Anemia, unspecified) is not supported by its causal evidence: hemoglobin expected low, median 13.99 (ref 12-15.5, score -0.14, n=4).",,
+10001125,K1,causal,medium,"D64.9 (Anemia, unspecified) is not supported by its causal evidence: hemoglobin expected low, median 14.35 (ref 12-15.5, score -0.34, n=4).",,U1
+10001140,K1,causal,medium,"E03.9 (Hypothyroidism, unspecified) is not supported by its causal evidence: tsh expected high, median 2.18 (ref 0.4-4, score -0.01, n=3).",,
+10001157,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 105.045 (ref 90-130, score -0.25, n=8).",,
+10001169,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 104.59 (ref 90-130, score -0.27, n=7).",,D2
+10001203,K1,causal,medium,"N18.3 (Chronic kidney disease, stage 3) is not supported by its causal evidence: creatinine expected high, median 0.78 (ref 0.6-1.2, score -0.40, n=5).",,K1
+10001204,K1,causal,medium,"D64.9 (Anemia, unspecified) is not supported by its causal evidence: hemoglobin expected low, median 13.985 (ref 12-15.5, score -0.13, n=2).",,
+10001212,K1,causal,medium,"E11.9 (Type 2 diabetes mellitus) is not supported by its causal evidence: hba1c expected high, median 4.76 (ref 4-5.6, score -0.05, n=4); glucose expected high, median 80.22 (ref 70-110, score -0.49, n=3).",,
+10001225,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 107.2 (ref 90-130, score -0.14, n=4).",,D1
+10001228,K1,causal,medium,"D64.9 (Anemia, unspecified) is not supported by its causal evidence: hemoglobin expected low, median 14.295 (ref 12-15.5, score -0.31, n=2).",,K1
+10001258,K1,causal,medium,"N18.3 (Chronic kidney disease, stage 3) is not supported by its causal evidence: creatinine expected high, median 0.795 (ref 0.6-1.2, score -0.35, n=4).",,K1
+10001266,K1,causal,medium,"E11.9 (Type 2 diabetes mellitus) is not supported by its causal evidence: hba1c expected high, median 4.77 (ref 4-5.6, score -0.04, n=3); glucose expected high, median 87.225 (ref 70-110, score -0.14, n=4).",,
+10001326,K1,causal,medium,"D64.9 (Anemia, unspecified) is not supported by its causal evidence: hemoglobin expected low, median 13.86 (ref 12-15.5, score -0.06, n=3).",,K1
+10001339,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 106.17 (ref 90-130, score -0.19, n=3).",,K1
+10001398,K1,causal,medium,"E11.9 (Type 2 diabetes mellitus) is not supported by its causal evidence: hba1c expected high, median 4.155 (ref 4-5.6, score -0.81, n=4); glucose expected high, median 89.77 (ref 70-110, score -0.01, n=2).",,K1
+10001401,K1,causal,medium,"D64.9 (Anemia, unspecified) is not supported by its causal evidence: hemoglobin expected low, median 16.11 (ref 13.5-17.5, score -0.30, n=3).",,
+10001420,K1,causal,medium,"E03.9 (Hypothyroidism, unspecified) is not supported by its causal evidence: tsh expected high, median 1.15 (ref 0.4-4, score -0.58, n=3).",,
+10001435,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 106.81 (ref 90-130, score -0.16, n=8).",,K1
+10001445,K1,causal,medium,"D64.9 (Anemia, unspecified) is not supported by its causal evidence: hemoglobin expected low, median 17.02 (ref 13.5-17.5, score -0.76, n=1).",,K1
+10001446,K1,causal,medium,"D64.9 (Anemia, unspecified) is not supported by its causal evidence: hemoglobin expected low, median 15.99 (ref 13.5-17.5, score -0.25, n=1).",,D2
+10001532,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 104.845 (ref 90-130, score -0.26, n=2).",,K1
+10001547,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 107.65 (ref 90-130, score -0.12, n=5).",,
+10001577,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 101.81 (ref 90-130, score -0.41, n=9).",,K1
+10001612,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 108.82 (ref 90-130, score -0.06, n=3).",,
+10001637,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 100.9 (ref 90-130, score -0.45, n=2).",,K1
+10001641,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 100.12 (ref 90-130, score -0.49, n=4).",,
+10001703,K1,causal,medium,"N18.3 (Chronic kidney disease, stage 3) is not supported by its causal evidence: creatinine expected high, median 0.845 (ref 0.6-1.2, score -0.18, n=4).",,
+10001729,K1,causal,medium,"E03.9 (Hypothyroidism, unspecified) is not supported by its causal evidence: tsh expected high, median 1.94 (ref 0.4-4, score -0.14, n=3).",,
+10001794,K1,causal,medium,"A41.9 (Sepsis, unspecified organism) is not supported by its causal evidence: wbc expected high, median 7.04 (ref 4-11, score -0.13, n=3); heart_rate expected high, median 70.055 (ref 60-100, score -0.50, n=6); temperature expected high, median 36.3 (ref 36.1-37.5, score -0.71, n=5).",,K1
+10001823,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 103.27 (ref 90-130, score -0.34, n=7).",,
+10001876,K1,causal,medium,"D64.9 (Anemia, unspecified) is not supported by its causal evidence: hemoglobin expected low, median 15.93 (ref 13.5-17.5, score -0.21, n=2).",,
+10001883,K1,causal,medium,"E11.9 (Type 2 diabetes mellitus) is not supported by its causal evidence: hba1c expected high, median 4.72 (ref 4-5.6, score -0.10, n=3); glucose expected high, median 82.78 (ref 70-110, score -0.36, n=3).",,K1
+10001901,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 108.48 (ref 90-130, score -0.08, n=9).",,
+10001941,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 108.405 (ref 90-130, score -0.08, n=8).",,
+10001976,K1,causal,medium,"E11.9 (Type 2 diabetes mellitus) is not supported by its causal evidence: hba1c expected high, median 4.455 (ref 4-5.6, score -0.43, n=4); glucose expected high, median 82.45 (ref 70-110, score -0.38, n=3).",,K1
+10001977,K1,causal,medium,"I10 (Essential (primary) hypertension) is not supported by its causal evidence: sbp expected high, median 109.44 (ref 90-130, score -0.03, n=9).",,K1

@@ -1,0 +1,10 @@
+type,category,description,n_injected,precision,precision_sd,recall,recall_sd,f1
+T1,temporal,Discharge time precedes admission time,44.0,1.0,0.0,1.0,0.0,1.0
+T2,temporal,Clinical event recorded after date of death,44.0,1.0,0.0,1.0,0.0,1.0
+D1,demographic,Sex-specific diagnosis recorded for the other sex,44.0,1.0,0.0,1.0,0.0,1.0
+D2,demographic,Diagnosis outside its plausible age range,44.0,1.0,0.0,1.0,0.0,1.0
+P1,plausibility,Physiologically implausible measurement value,44.0,1.0,0.0,1.0,0.0,1.0
+U1,plausibility,Unit mismatch (value recorded in the wrong unit),44.0,1.0,0.0,1.0,0.0,1.0
+C1,integrity,Conflicting duplicate measurements at the same timestamp,44.0,1.0,0.0,1.0,0.0,1.0
+M1,pharmacological,Disease-specific drug without a supporting diagnosis,44.0,1.0,0.0,1.0,0.0,1.0
+K1,causal,Diagnosis contradicted by its expected physiological evidence,44.0,0.47220540788351395,0.025474960326462865,0.8454545454545455,0.0609836721136306,0.6056420370873413
