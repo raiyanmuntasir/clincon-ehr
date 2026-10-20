@@ -2,7 +2,7 @@
 
 **Interpretable rule-based and causal-graph detection of patient-level clinical inconsistencies in synthetic electronic health records.**
 
-[![tests](https://github.com/raiyandevops24/clincon-ehr/actions/workflows/ci.yml/badge.svg)](https://github.com/raiyandevops24/clincon-ehr/actions/workflows/ci.yml)
+[![tests](https://github.com/raiyanmuntasir/clincon-ehr/actions/workflows/ci.yml/badge.svg)](https://github.com/raiyanmuntasir/clincon-ehr/actions/workflows/ci.yml)
 ![python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
@@ -86,7 +86,7 @@ Full tables: [`results/RESULTS.md`](results/RESULTS.md).
 ## Quick start
 
 ```bash
-git clone https://github.com/raiyandevops24/clincon-ehr.git
+git clone https://github.com/raiyanmuntasir/clincon-ehr.git
 cd clincon-ehr
 pip install -r requirements.txt
 
