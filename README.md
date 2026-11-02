@@ -4,7 +4,6 @@
 
 [![tests](https://github.com/raiyanmuntasir/clincon-ehr/actions/workflows/ci.yml/badge.svg)](https://github.com/raiyanmuntasir/clincon-ehr/actions/workflows/ci.yml)
 ![python](https://img.shields.io/badge/python-3.10%2B-blue)
-![license](https://img.shields.io/badge/license-MIT-green)
 
 This repository contains the reference implementation that accompanies the manuscript in preparation:
 
@@ -138,7 +137,3 @@ If you use this code, please cite the manuscript (citation will be updated on pu
   note   = {Manuscript in preparation}
 }
 ```
-
-## License
-
-MIT © Raiyan Muntasir Monim
