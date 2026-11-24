@@ -7,7 +7,7 @@
 
 This repository contains the reference implementation that accompanies the manuscript in preparation:
 
-> Monim, R. M., Talha, A., & Islam, K. *ClinCon-EHR: An interpretable rule-based and causal framework for detecting patient-level clinical inconsistencies in synthetic electronic health records.* (in preparation)
+> Monim, R. M., Talha, A., & Islam, K. *ClinCon-EHR: An interpretable rule-based and probabilistic framework for detecting patient-level clinical inconsistencies in synthetic electronic health records.* (in preparation)
 
 The code was written as an open, reproducible companion to the manuscript. The numbers below come from this code's synthetic benchmark; they are not the figures reported in the manuscript.
 
@@ -132,7 +132,7 @@ If you use this code, please cite the manuscript (citation will be updated on pu
 ```bibtex
 @unpublished{monim_clincon_ehr,
   author = {Monim, Raiyan Muntasir and Talha, A. and Islam, K.},
-  title  = {ClinCon-EHR: An interpretable rule-based and causal framework for detecting
+  title  = {ClinCon-EHR: An interpretable rule-based and probabilistic framework for detecting
             patient-level clinical inconsistencies in synthetic electronic health records},
   note   = {Manuscript in preparation}
 }
